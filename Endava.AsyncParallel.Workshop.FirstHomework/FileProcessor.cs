@@ -62,15 +62,6 @@ namespace Endava.AsyncParallel.Workshop.FirstHomework
                 _filePathList.Add((string)e.Argument);
         }
 
-        private void FileProcessor_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
-        {
-            lock (_syncObject)
-            {
-                Console.WriteLine("finished");
-                _countdown.Signal();
-            }
-        }
-
         private void FileProcessor_DoWork(object sender, DoWorkEventArgs e)
         {
             //Process file 

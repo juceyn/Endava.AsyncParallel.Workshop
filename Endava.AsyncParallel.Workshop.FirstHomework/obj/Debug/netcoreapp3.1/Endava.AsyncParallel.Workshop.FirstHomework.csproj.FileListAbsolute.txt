@@ -19,3 +19,4 @@ C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParalle
 C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.FirstHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.FirstHomework.dll
 C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.FirstHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.FirstHomework.pdb
 C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.FirstHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.FirstHomework.genruntimeconfig.cache
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.FirstHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.FirstHomework.csprojAssemblyReference.cache
