@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endava.AsyncParallel.Workshop.FirstHomework", "Endava.AsyncParallel.Workshop.FirstHomework\Endava.AsyncParallel.Workshop.FirstHomework.csproj", "{F77FB2D7-894D-4102-90B1-EEC93CA7B5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endava.AsyncParallel.Workshop.FirstHomework", "Endava.AsyncParallel.Workshop.FirstHomework\Endava.AsyncParallel.Workshop.FirstHomework.csproj", "{F77FB2D7-894D-4102-90B1-EEC93CA7B5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endava.AsyncParallel.Workshop.SecondHomework", "Endava.AsyncParallel.Workshop.SecondHomework\Endava.AsyncParallel.Workshop.SecondHomework.csproj", "{53B3D887-6A27-4FDB-AA5F-232A26C7A1DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F77FB2D7-894D-4102-90B1-EEC93CA7B5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77FB2D7-894D-4102-90B1-EEC93CA7B5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77FB2D7-894D-4102-90B1-EEC93CA7B5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B3D887-6A27-4FDB-AA5F-232A26C7A1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B3D887-6A27-4FDB-AA5F-232A26C7A1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B3D887-6A27-4FDB-AA5F-232A26C7A1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B3D887-6A27-4FDB-AA5F-232A26C7A1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

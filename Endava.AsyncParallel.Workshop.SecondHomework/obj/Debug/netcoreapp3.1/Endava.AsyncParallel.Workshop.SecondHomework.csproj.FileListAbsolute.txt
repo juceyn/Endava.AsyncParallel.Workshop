@@ -1,0 +1,13 @@
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.csproj.CoreCompileInputs.cache
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.AssemblyInfoInputs.cache
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.AssemblyInfo.cs
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.exe
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.deps.json
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.runtimeconfig.json
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.runtimeconfig.dev.json
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.dll
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\bin\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.pdb
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.dll
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.pdb
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.genruntimeconfig.cache
+C:\Users\jynojosa\source\repos\Endava.AsyncParallel.Workshop\Endava.AsyncParallel.Workshop.SecondHomework\obj\Debug\netcoreapp3.1\Endava.AsyncParallel.Workshop.SecondHomework.csprojAssemblyReference.cache
